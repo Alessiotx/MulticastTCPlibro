@@ -6,7 +6,7 @@ package com.mycompany.multicast;
 import java.net.*;
 import java.io.*;
 /**
- *
+ *dal libro
  * @author Alessio
  */
 public class MulticastClient {
